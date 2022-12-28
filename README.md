@@ -1,7 +1,7 @@
 [![MasterHead](https://technowebsolutions.in/wp-content/uploads/2019/05/software-development-banner-1-1500x450.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bryan Matthew</h1>
 <h3 align="center">A passionate software engineer & a computer-science student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bryan-matthew&label=Profile%20views&color=0e75b6&style=flat" alt="bryan-matthew" /> </p>
