@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bmatth21@gmail.com**
 
-- 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/1zOiZKalaJZa8xxuJ7fd2XNGn7xioTArc/view?usp=sharing)
+- 📄 Know about my experiences [Link to Resume](https://drive.google.com/file/d/1W4ibHFZWqE7wJCmgRPuXZoCGwF0pAQpU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
